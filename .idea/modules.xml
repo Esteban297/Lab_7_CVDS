@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CVDS_Lab_07.iml" filepath="$PROJECT_DIR$/.idea/CVDS_Lab_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis_Introduction_VideoRental/MyBATIS-Guice-DAO-VideorentalServicesLayer.iml" filepath="$PROJECT_DIR$/MyBatis_Introduction_VideoRental/MyBATIS-Guice-DAO-VideorentalServicesLayer.iml" />
+    </modules>
+  </component>
+</project>
